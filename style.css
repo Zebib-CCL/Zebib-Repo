@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, Helvetica, sans-seri;
+    line-height: 1.6;
+    background-color: black;
+    color: darkgray;
+
+}
+
+ h1{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color: aqua;
+
+}
+main{
+    padding: 20px;
+    width: 700px;
+    margin: 8px;
+}
+.menuitem h2{
+    color: red;
+    
+}
+
+.menuitem p{
+    margin: 20px;
+}
+footer{
+    text-align: center;
+    background-color: chartreuse;
+    color: crimson;
+    padding: 10px;
+    
+}
+
+img{
+    max-width: 150px;
+}
+
+
+.labelformat{
+    display: grid;
+    justify-content: right;
+    grid-gap: 10px;
+    color: blue;
+
+}
+
+.submit{
+    display: flex;
+    text-align: center;
+   
+    align-items: center;
+}
